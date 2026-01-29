@@ -97,8 +97,11 @@ python main.py
 ## 👨‍💻 Autor
 
 **Wesley de Jesus dos Santos**
+
 Estudante de Ciências da Computação
+
 📍 Rio de Janeiro – RJ
+
 📧 [wesleydjds@outlook.com.br](mailto:wesleydjds@outlook.com.br)
 
 ---
